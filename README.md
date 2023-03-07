@@ -211,7 +211,7 @@ we would like to thank Microverse organization
 
 ## 📝 License <a name="license"></a>
 
-<!-- This project is [MIT]() licensed.
-(Check the LICENSE file) -->
+ This project is [MIT](https://github.com/brhanuhailu/Leaderboard/blob/development/LICENSE) licensed.
+(Check the LICENSE file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
