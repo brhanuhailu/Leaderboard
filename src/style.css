@@ -57,6 +57,7 @@
   justify-content: space-between;
   font-weight: 700;
 }
+
 .list-score {
   width: 100%;
   padding: 10px;
@@ -66,6 +67,7 @@ tr,
 td {
   padding: 10px;
 }
+
 .form-score {
   display: flex;
   flex-direction: column;
