@@ -46,6 +46,7 @@
 .playerlist {
   width: 80%;
   padding: 10px;
+  border: 2px solid rgb(39, 39, 39);
 }
 
 .playertitle {
@@ -58,19 +59,13 @@
 }
 
 .list-score {
-  border: 2px solid black;
-}
-
-.list-score li {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
+  width: 100%;
   padding: 10px;
 }
 
-.list-score li:nth-child(even) {
-  background-color: rgb(76, 73, 72);
+tr,
+td {
+  padding: 10px;
 }
 
 .form-score {
