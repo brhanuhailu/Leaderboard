@@ -27,9 +27,9 @@
 # 📖 [Leaderboard setup project] <a name="about-project"></a>
 
 > In this leaderboard setup project I have developed leaderboard app that can Send and receive data from an API. Html, Css and JavaScript project for the Leaderboard list app, using webpack and ES6 features.
-> It has been written plain HTML markup with minimum styling (just to make the layout), because I will implement styles in the following steps.designed the wireframe as a guide.
+> It has been written plain HTML markup with general layout of the wireframe, because I implemented styles in the following steps.designed the wireframe as a guide.
 
-**[Leaderboard setup project]** is the main part of javascript project which inluded how to use webpack and ES6.
+**[Leaderboard setup project]** is the main part of javascript project which inluded how to use webpack, ES6 and API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,6 +46,7 @@
     <li><a href="https://webpack.js.org/guides/getting-started/">Webpack bundler</a></li>
     <li><a href="https://webpack.js.org/guides/getting-started/">HtmlWebpackPlugin</a></li>
     <li><a href="https://webpack.js.org/guides/output-management/">style-loader and css-loader</a></li>
+    <li><a href="https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3">style-loader and css-loader</a></li>
   </ul>
 </details>
 
@@ -104,6 +105,12 @@ To run the project automatically loading up the page use
 
 ```sh
  npm start
+```
+
+To Post and Get Data use one popular site like HOPPSCOTCH
+
+```sh
+ navigate https://hoppscotch.io/
 ```
 
 ### Setup

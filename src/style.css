@@ -47,6 +47,7 @@
   width: 80%;
   padding: 10px;
   border: 2px solid rgb(39, 39, 39);
+  border-radius: 5px;
 }
 
 .playertitle {
@@ -104,10 +105,23 @@ td {
   border: 1px solid;
   box-shadow: 2px 2px 2px rgb(12, 12, 12);
   color: rgb(12, 12, 12);
+  cursor: pointer;
 }
 
 .success {
   padding: 10px;
+}
+
+input[type=text],
+input[type=number] {
+  width: 85%;
+  min-height: 20px;
+  font-family: inherit;
+  padding: 5px 15px;
+  border-radius: 5px;
+  font-size: 19px;
+  color: black;
+  font-weight: 500;
 }
 
 @media (max-width: 480px) {
