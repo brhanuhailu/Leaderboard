@@ -26,7 +26,7 @@
 
 # 📖 [Leaderboard setup project] <a name="about-project"></a>
 
-> In this leaderboard setup project I have set up a Html, Css and JavaScript project for the Leaderboard list app, using webpack and ES6 features.
+> In this leaderboard setup project I have developed leaderboard app that can Send and receive data from an API. Html, Css and JavaScript project for the Leaderboard list app, using webpack and ES6 features.
 > It has been written plain HTML markup with minimum styling (just to make the layout), because I will implement styles in the following steps.designed the wireframe as a guide.
 
 **[Leaderboard setup project]** is the main part of javascript project which inluded how to use webpack and ES6.
@@ -63,9 +63,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> It will deploy soon.
+> You can find the Live Demo.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://brhanuhailu.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +152,7 @@ To check for js errors run:
 
 ### Deployment
 
-It will be Deployed using Github Pages soon.
+Deployed using Github Pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +211,7 @@ we would like to thank Microverse organization
 
 ## 📝 License <a name="license"></a>
 
- This project is [MIT](https://github.com/brhanuhailu/Leaderboard/blob/development/LICENSE) licensed.
+This project is [MIT](https://github.com/brhanuhailu/Leaderboard/blob/development/LICENSE) licensed.
 (Check the LICENSE file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
